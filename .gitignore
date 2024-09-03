@@ -7,7 +7,7 @@ out/
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 /lib
-nethereum-gen.settingd
+nethereum-gen.settings
 
 # Docs
 docs/
@@ -15,4 +15,8 @@ docs/
 # Dotenv file
 .env
 broadcast/
+.txt
+vote.json
+vote.txt
+voting.json
 
