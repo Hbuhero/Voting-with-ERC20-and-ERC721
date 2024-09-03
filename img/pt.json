@@ -1,0 +1,11 @@
+{
+    "name": "PT NFT",
+    "description": "An NFT acting as an ID card for a PT used in voting in organizational matters",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "PT"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/QmbGA43n7nLoHmgE1KRPnD9HpVcTDiTEMGY39gvMFwN2ZE/?filename=PT.svg"
+}

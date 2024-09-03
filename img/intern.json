@@ -1,0 +1,11 @@
+{
+    "name": "Intern NFT",
+    "description": "An NFT acting as an ID card for an intern used in voting in organizational matters",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Intern"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/QmV9DusmNKGT7ENXWFuijhyrYa1Htqp99QwEuRLke6enWp/?filename=INTERN.svg"
+}

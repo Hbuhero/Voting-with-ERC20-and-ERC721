@@ -1,0 +1,11 @@
+{
+    "name": "STAFF NFT",
+    "description": "An NFT acting as an ID card for a STAFF used in voting in organizational matters",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "STAFF"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/QmTZbie4BCVcrnExUsMHXqMF7Mqg2PNezkE7ptg1rQJgTz/?filename=STAFF.svg"
+}
